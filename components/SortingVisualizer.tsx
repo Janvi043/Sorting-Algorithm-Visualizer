@@ -316,7 +316,7 @@ export default function SortingVisualizer() {
       <div className={styles.visualization}>
         {array.length === 0 ? (
           <div className={styles.emptyState}>
-            <p>Enter array size and click "Generate Random Array" to start</p>
+            <p>Enter array size and click &quot;Generate Random Array&quot; to start</p>
           </div>
         ) : (
           array.map((bar, index) => (
