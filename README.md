@@ -11,7 +11,7 @@ A beautiful, interactive web application that visualizes sorting algorithms with
 - **Customizable Speed**: Adjust animation speed from 10ms to 200ms
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 
-## Success Criteria Met
+## Result
 
 **Random Array Generation** - Click "Generate New Array" to create a new random array  
 **Swap Animations** - Bars animate with color changes during comparisons and swaps  
@@ -82,7 +82,4 @@ vercel
 - **CSS Modules** - Scoped styling
 - **CSS Animations** - Smooth transitions
 
-## License
-
-MIT License - feel free to use this project for learning and development!
 
