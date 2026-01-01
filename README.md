@@ -13,9 +13,9 @@ A beautiful, interactive web application that visualizes sorting algorithms with
 
 ## Success Criteria Met
 
-✅ **Random Array Generation** - Click "Generate New Array" to create a new random array  
-✅ **Swap Animations** - Bars animate with color changes during comparisons and swaps  
-✅ **Sorted State Indication** - Green bars and success message when sorting is complete  
+**Random Array Generation** - Click "Generate New Array" to create a new random array  
+**Swap Animations** - Bars animate with color changes during comparisons and swaps  
+**Sorted State Indication** - Green bars and success message when sorting is complete  
 
 ## Getting Started
 
